@@ -1,0 +1,1001 @@
+Student Name,Major,Procrastination Activity,Procrastination Hours per Day,Assignment Due in (Days),Stress Level
+John Roberts,Marketing,Taking a Nap,2,6,6
+Autumn Lozano,Psychology,Binge-watching Netflix,7,2,5
+Lori Russo,Business,Online Shopping,3,4,10
+Samuel Lewis,Art History,Scrolling TikTok,12,6,10
+Thomas Thomas,Computer Science,Scrolling TikTok,8,5,8
+Veronica Smith,Marketing,Taking a Nap,4,3,3
+Dr. Tiffany Clark,Engineering,Gaming,2,1,9
+Lori York,Psychology,Binge-watching Netflix,10,6,9
+Aaron Crawford,Business,Scrolling TikTok,4,7,6
+Brian King,Psychology,Gaming,11,5,4
+Robert Miller,Computer Science,Scrolling TikTok,6,2,10
+Ashley Park,Computer Science,Taking a Nap,1,1,1
+Mrs. Nancy Winters,Computer Science,Scrolling TikTok,10,7,4
+Mary Marsh,Business,Scrolling TikTok,8,4,4
+Jonathan Moore,Marketing,Gaming,10,4,6
+Michael Ellison,Engineering,Gaming,6,1,8
+Cheryl Johnson,Computer Science,Online Shopping,9,6,2
+Susan Smith,Computer Science,Taking a Nap,5,4,7
+Richard Bailey,Marketing,Binge-watching Netflix,3,2,4
+Holly Proctor,Business,Binge-watching Netflix,12,4,4
+George Robinson,Engineering,Gaming,9,2,6
+Betty Gill,Business,Online Shopping,12,2,6
+Robert Thompson,Psychology,Taking a Nap,4,4,9
+Angel Marquez,Computer Science,Binge-watching Netflix,1,6,9
+Glenn Shaw,Marketing,Scrolling TikTok,2,7,5
+Holly Harper,Engineering,Binge-watching Netflix,2,1,3
+Dr. Monica Miller,Marketing,Taking a Nap,4,2,7
+Karen King,Marketing,Online Shopping,10,6,8
+Ross Rose,Engineering,Gaming,12,5,5
+John Gray,Art History,Gaming,1,3,8
+Mario Jennings II,Art History,Binge-watching Netflix,7,2,3
+Alexandra Cruz,Computer Science,Online Shopping,7,4,10
+Veronica Harris,Art History,Gaming,10,2,4
+Shelly Brown,Psychology,Gaming,1,6,7
+Catherine Mendoza,Business,Binge-watching Netflix,12,4,7
+Christian Sandoval,Computer Science,Online Shopping,11,2,2
+Hunter Mejia,Psychology,Binge-watching Netflix,9,6,7
+Ryan Coffey,Art History,Scrolling TikTok,4,4,1
+Christopher Robinson,Business,Scrolling TikTok,9,5,2
+Roberto Wilkinson,Engineering,Taking a Nap,12,1,8
+Mary Wade,Art History,Taking a Nap,5,4,3
+Janet Meza,Art History,Gaming,5,6,8
+Keith Rodriguez,Engineering,Taking a Nap,4,5,1
+James Yoder,Engineering,Scrolling TikTok,7,7,10
+Stephen Garcia,Art History,Online Shopping,4,6,10
+Dr. Stephen Tucker MD,Marketing,Taking a Nap,4,7,4
+Justin Carter,Art History,Online Shopping,4,1,4
+Kyle Rogers,Psychology,Scrolling TikTok,1,3,7
+Debra Dennis,Art History,Gaming,3,3,4
+Brad George,Computer Science,Gaming,7,4,6
+Tracy Chambers,Business,Online Shopping,2,4,2
+Greg Nguyen,Computer Science,Online Shopping,5,4,3
+Michael King,Computer Science,Gaming,8,5,4
+Sara Clark,Marketing,Online Shopping,8,1,6
+Eric Wheeler,Art History,Scrolling TikTok,8,7,6
+Nathan Johnson,Marketing,Binge-watching Netflix,9,4,1
+Thomas Hammond,Business,Gaming,7,3,3
+Brian Jackson DVM,Computer Science,Online Shopping,3,2,10
+Devin Johnson,Art History,Gaming,11,3,2
+Timothy Cox,Computer Science,Binge-watching Netflix,4,5,8
+Austin Greer DVM,Marketing,Online Shopping,10,6,5
+Derek Rhodes,Art History,Gaming,12,3,9
+Michael Davis,Engineering,Taking a Nap,9,2,3
+Jacob Rogers,Business,Taking a Nap,5,6,6
+Kathleen Fisher,Engineering,Gaming,9,5,1
+Laura Miller,Business,Online Shopping,6,7,3
+Lisa Lopez,Marketing,Taking a Nap,4,4,4
+Megan Adams,Computer Science,Gaming,11,1,2
+Ricky Martinez,Business,Taking a Nap,7,3,8
+Ryan Collins,Computer Science,Online Shopping,5,4,8
+Michael Fisher,Business,Binge-watching Netflix,4,1,10
+Connie Glenn,Engineering,Binge-watching Netflix,3,2,8
+Kathryn Craig,Engineering,Scrolling TikTok,4,3,5
+Kathleen Stout,Psychology,Scrolling TikTok,2,2,4
+Maria Cochran,Business,Taking a Nap,11,6,8
+Jordan Smith,Business,Gaming,8,3,7
+Gary Carpenter,Computer Science,Gaming,10,7,9
+Michelle Wright,Art History,Binge-watching Netflix,12,7,4
+Terry Ryan,Computer Science,Gaming,3,5,9
+Samantha Rose,Computer Science,Binge-watching Netflix,9,6,6
+Shelly Cox,Engineering,Binge-watching Netflix,8,5,5
+Heather Wu,Art History,Online Shopping,10,6,8
+Jordan Ponce,Engineering,Gaming,7,1,6
+Stacie Gardner,Computer Science,Taking a Nap,8,4,4
+Emily Herrera,Psychology,Binge-watching Netflix,9,7,4
+Joseph Horton,Psychology,Gaming,12,5,8
+Alexis Turner,Psychology,Gaming,5,6,3
+Elizabeth Gilbert,Computer Science,Taking a Nap,10,6,10
+Aaron Banks,Psychology,Binge-watching Netflix,2,5,6
+Lucas Smith,Marketing,Online Shopping,5,1,6
+Dustin Hawkins,Marketing,Gaming,7,3,10
+Kevin Wise,Engineering,Online Shopping,3,3,1
+Taylor Rogers,Art History,Online Shopping,2,1,8
+Dr. Heather Kennedy DDS,Business,Online Shopping,12,5,7
+Robert Thomas,Marketing,Taking a Nap,9,7,9
+Steven Gaines,Psychology,Gaming,11,3,5
+Tyler Gray,Marketing,Taking a Nap,7,2,3
+Todd Campbell,Marketing,Scrolling TikTok,5,4,5
+William Lee,Psychology,Binge-watching Netflix,9,3,5
+Tami Taylor,Art History,Taking a Nap,11,2,1
+Dr. Brittany Flynn,Engineering,Taking a Nap,3,6,5
+Jason Mathews,Computer Science,Scrolling TikTok,2,2,1
+Susan Patterson,Computer Science,Binge-watching Netflix,9,1,5
+Janet Herrera,Art History,Taking a Nap,9,6,2
+Gary Ramsey,Psychology,Scrolling TikTok,8,6,9
+Edward Russo,Psychology,Scrolling TikTok,9,1,4
+James Norman,Art History,Taking a Nap,9,1,3
+Gregory Brown,Engineering,Gaming,6,3,3
+Nicole Miller,Engineering,Scrolling TikTok,12,1,4
+Louis Nolan,Art History,Gaming,6,4,8
+Kenneth David,Art History,Binge-watching Netflix,6,5,9
+James Stevens,Engineering,Binge-watching Netflix,4,2,1
+Heather Flynn,Psychology,Scrolling TikTok,10,5,6
+Monica Jackson,Marketing,Binge-watching Netflix,10,1,7
+Courtney Walsh,Marketing,Binge-watching Netflix,2,1,8
+Michael Jenkins,Marketing,Scrolling TikTok,4,4,5
+Melissa Thomas,Computer Science,Taking a Nap,7,7,10
+Carrie Smith,Computer Science,Scrolling TikTok,12,6,7
+Donna Morris,Psychology,Online Shopping,11,6,5
+Darryl Jackson,Psychology,Scrolling TikTok,2,2,7
+Michelle Williams,Engineering,Online Shopping,2,7,3
+Shannon Arnold,Business,Binge-watching Netflix,3,1,8
+Jordan Lloyd,Marketing,Gaming,6,4,6
+Donna Scott,Art History,Binge-watching Netflix,7,2,5
+Laura Brown,Art History,Scrolling TikTok,1,1,3
+David Jenkins,Psychology,Online Shopping,8,3,7
+Sean Harris,Computer Science,Scrolling TikTok,1,5,7
+Lawrence Garcia,Art History,Taking a Nap,1,1,9
+Jenna Hernandez,Business,Gaming,2,5,2
+Ryan Johnson,Marketing,Online Shopping,4,6,8
+Michael Taylor,Business,Gaming,11,4,8
+Leah Boyd,Art History,Taking a Nap,5,2,2
+Tracy Mills,Art History,Gaming,12,3,3
+Paul Lewis DDS,Art History,Online Shopping,4,2,2
+Alexandra Gonzalez,Business,Binge-watching Netflix,12,6,4
+Paul Howard,Engineering,Binge-watching Netflix,11,4,6
+James Garcia,Business,Online Shopping,8,4,5
+Margaret Lewis,Business,Scrolling TikTok,9,1,8
+Kimberly Young,Psychology,Gaming,8,4,9
+Sonya Carter,Marketing,Online Shopping,5,3,6
+Robert Stephenson,Marketing,Binge-watching Netflix,11,6,4
+Sarah Keller,Engineering,Scrolling TikTok,9,6,9
+Brenda Wheeler,Art History,Online Shopping,8,7,1
+Taylor Macdonald,Marketing,Online Shopping,5,3,3
+Ronald Taylor,Computer Science,Binge-watching Netflix,5,3,3
+Alexander Alexander,Computer Science,Binge-watching Netflix,10,5,4
+Melissa Spencer,Marketing,Binge-watching Netflix,9,3,3
+Rebecca Hernandez,Computer Science,Gaming,1,6,8
+David Torres,Engineering,Taking a Nap,11,3,5
+Stacy Gonzalez,Psychology,Binge-watching Netflix,12,3,2
+Brenda Hoffman,Computer Science,Binge-watching Netflix,8,5,9
+Anne Zavala,Psychology,Taking a Nap,4,6,8
+Sheila Carroll,Computer Science,Scrolling TikTok,9,7,3
+Bryan Love,Computer Science,Online Shopping,9,5,5
+Joseph Bridges,Computer Science,Binge-watching Netflix,11,5,9
+Jason Johnson,Marketing,Gaming,2,2,7
+Hannah Brennan,Business,Taking a Nap,3,3,3
+Natasha Kline,Marketing,Binge-watching Netflix,4,5,6
+Carly Castillo,Computer Science,Online Shopping,6,5,1
+Nathan Duncan,Engineering,Online Shopping,6,6,6
+Jenna Hall,Computer Science,Gaming,8,1,7
+Deanna Hayes,Computer Science,Online Shopping,8,3,3
+Mrs. Chelsea Harrington DVM,Computer Science,Binge-watching Netflix,2,7,9
+Nathan Rubio,Computer Science,Scrolling TikTok,6,5,7
+Ronald Rodriguez,Computer Science,Online Shopping,3,5,7
+Timothy Padilla,Engineering,Scrolling TikTok,7,7,8
+Stephanie Short,Computer Science,Gaming,9,3,4
+James Gordon,Art History,Binge-watching Netflix,11,3,9
+Cassandra Ward,Engineering,Taking a Nap,6,7,9
+Erik Hernandez,Business,Online Shopping,7,1,1
+Devin Turner,Psychology,Gaming,7,2,4
+Zachary Newton,Engineering,Scrolling TikTok,5,7,3
+Debra Leonard,Engineering,Binge-watching Netflix,8,6,1
+Sarah Ingram,Psychology,Scrolling TikTok,1,7,3
+Sylvia Wolfe,Computer Science,Gaming,7,4,1
+Roberta Gallegos DVM,Marketing,Online Shopping,6,1,2
+Kristina Atkins,Marketing,Gaming,11,3,9
+Sandra Cruz,Psychology,Gaming,3,6,10
+Cameron Hutchinson,Computer Science,Taking a Nap,1,5,5
+Sarah Fuentes,Art History,Scrolling TikTok,1,5,1
+Krystal Thomas,Marketing,Scrolling TikTok,5,7,4
+Paul Murphy,Engineering,Scrolling TikTok,10,5,1
+Lisa Smith,Psychology,Scrolling TikTok,12,2,4
+Dr. Robert Cross,Computer Science,Scrolling TikTok,7,4,8
+Andrew Jordan,Business,Scrolling TikTok,11,1,1
+Trevor Wright,Computer Science,Binge-watching Netflix,11,3,8
+Shannon Harris,Art History,Binge-watching Netflix,11,3,7
+Theresa Miller,Psychology,Gaming,4,6,5
+Amy Moore,Business,Online Shopping,4,3,7
+Mr. Eric Wall,Business,Binge-watching Netflix,6,2,8
+Phillip Hensley,Marketing,Online Shopping,3,2,2
+Vanessa Carter,Engineering,Scrolling TikTok,4,3,5
+Kathleen Vance,Art History,Taking a Nap,10,2,4
+Joseph Hernandez,Psychology,Scrolling TikTok,5,2,6
+David Burgess Jr.,Business,Scrolling TikTok,9,3,2
+Heidi Knapp,Psychology,Online Shopping,7,7,6
+Michelle Miles,Engineering,Online Shopping,4,5,4
+Mrs. Amber Trevino,Art History,Taking a Nap,12,5,7
+Aaron Ball,Computer Science,Binge-watching Netflix,7,7,1
+Christine Waller,Psychology,Scrolling TikTok,12,5,9
+Robert Hamilton,Art History,Binge-watching Netflix,2,3,10
+Paul Brown,Business,Online Shopping,8,3,5
+Sharon Williams,Psychology,Online Shopping,5,3,8
+Robert Lara,Art History,Online Shopping,11,3,1
+Mary Faulkner,Marketing,Gaming,3,1,5
+Alyssa Davis,Psychology,Binge-watching Netflix,1,4,3
+Paul Gallagher,Art History,Online Shopping,3,3,3
+Julie Aguirre,Engineering,Gaming,7,6,6
+Michael Aguirre,Engineering,Scrolling TikTok,1,6,10
+Dr. Claudia Baker MD,Marketing,Scrolling TikTok,7,5,2
+Amy Case,Marketing,Binge-watching Netflix,11,5,3
+Christine Herrera,Engineering,Scrolling TikTok,2,5,3
+Casey Smith,Computer Science,Binge-watching Netflix,4,4,1
+James Morris,Psychology,Taking a Nap,1,4,6
+Ashley Pruitt,Engineering,Scrolling TikTok,6,4,6
+Patricia Marshall,Business,Online Shopping,9,6,2
+Michelle Norris,Psychology,Gaming,9,7,5
+Tommy Shannon,Engineering,Binge-watching Netflix,7,6,2
+Danny Moore,Art History,Scrolling TikTok,8,3,6
+Melissa Cook,Engineering,Online Shopping,1,4,3
+April Cervantes,Computer Science,Gaming,7,5,3
+Christopher Phelps,Computer Science,Scrolling TikTok,6,5,6
+Daryl Johnston,Psychology,Gaming,8,2,8
+Edwin Mason,Marketing,Taking a Nap,1,7,1
+Anthony Sandoval,Psychology,Scrolling TikTok,4,3,8
+Joshua Fisher,Business,Scrolling TikTok,5,7,9
+Ronnie Anderson,Marketing,Online Shopping,3,2,9
+Michelle Cordova,Marketing,Taking a Nap,8,4,6
+George Potter,Business,Binge-watching Netflix,3,3,5
+Jessica Rogers,Computer Science,Gaming,10,7,6
+Joshua Lewis,Art History,Gaming,1,2,5
+Janice Thompson,Engineering,Taking a Nap,5,5,10
+Sydney Fuller,Engineering,Taking a Nap,4,1,6
+James Bell,Business,Gaming,5,3,1
+Lisa Kramer MD,Computer Science,Gaming,4,4,5
+Julie Gibson,Business,Online Shopping,3,6,4
+Jacqueline Roberts,Art History,Binge-watching Netflix,7,3,2
+Allison Taylor,Engineering,Scrolling TikTok,1,7,9
+Cody Robinson,Engineering,Binge-watching Netflix,7,3,10
+Catherine Marshall,Business,Scrolling TikTok,5,1,2
+Janet Mathews,Business,Taking a Nap,5,5,2
+Erin Patterson,Marketing,Binge-watching Netflix,2,5,4
+Robert Vasquez,Marketing,Scrolling TikTok,1,5,9
+David Sexton,Engineering,Online Shopping,8,1,8
+Timothy Santana,Business,Online Shopping,3,5,1
+Sherry Chandler,Business,Gaming,4,2,1
+Dawn Spears,Psychology,Online Shopping,5,4,2
+Roy Dickerson,Computer Science,Taking a Nap,2,1,1
+Ann Murphy,Engineering,Online Shopping,7,7,10
+Jessica Gould,Business,Gaming,2,1,6
+Linda Williams,Engineering,Online Shopping,1,7,9
+Paul Gordon,Psychology,Scrolling TikTok,3,3,2
+Todd Kennedy,Psychology,Scrolling TikTok,3,6,9
+Benjamin Spence,Engineering,Taking a Nap,9,2,9
+Brittany Francis,Engineering,Gaming,1,7,5
+Kelly Benjamin,Engineering,Taking a Nap,10,1,9
+Felicia Nelson,Psychology,Binge-watching Netflix,3,6,1
+Jason Wright,Computer Science,Online Shopping,3,6,6
+Tricia Williams,Art History,Scrolling TikTok,5,6,2
+Jill Taylor,Computer Science,Scrolling TikTok,1,7,10
+Kathryn Smith,Business,Online Shopping,12,6,3
+Amber Nichols,Psychology,Binge-watching Netflix,9,5,4
+Lawrence Mcfarland,Psychology,Gaming,12,1,5
+Jessica Price,Art History,Taking a Nap,1,1,5
+Thomas Green,Marketing,Taking a Nap,12,4,3
+Charles Paul,Art History,Binge-watching Netflix,10,2,2
+Laura Herrera,Computer Science,Gaming,4,1,6
+Ms. Breanna Moss,Art History,Taking a Nap,8,4,5
+Kristine Navarro,Art History,Scrolling TikTok,12,2,9
+Aaron Monroe,Art History,Binge-watching Netflix,12,5,3
+Fernando Morales,Psychology,Binge-watching Netflix,5,4,10
+James Rogers,Marketing,Scrolling TikTok,7,1,5
+John Rivera,Marketing,Online Shopping,9,3,4
+Kelsey Li,Engineering,Online Shopping,8,7,6
+Jessica Flynn,Marketing,Binge-watching Netflix,2,7,5
+Walter Gutierrez,Marketing,Scrolling TikTok,12,5,4
+Dr. Thomas Perry,Business,Taking a Nap,1,5,1
+Donna Leach,Marketing,Gaming,6,4,3
+Kelly Jordan,Computer Science,Binge-watching Netflix,8,5,10
+Amanda Wilson,Business,Scrolling TikTok,6,6,2
+Rachel Jenkins,Computer Science,Gaming,1,4,7
+Jennifer Munoz,Art History,Scrolling TikTok,7,1,10
+Sherry Griffin,Business,Gaming,10,4,10
+William Newton,Engineering,Binge-watching Netflix,7,5,10
+Vicki Davis,Marketing,Taking a Nap,10,1,5
+Nancy Williams,Business,Gaming,1,5,10
+Amanda Herrera,Marketing,Online Shopping,2,7,5
+Eugene Simmons,Computer Science,Taking a Nap,12,3,6
+Stacey Nunez,Computer Science,Scrolling TikTok,12,5,3
+Christopher Mason,Engineering,Binge-watching Netflix,10,2,8
+Susan Woodward,Marketing,Online Shopping,4,2,5
+Taylor Oconnell,Computer Science,Taking a Nap,7,5,2
+Denise Garza,Psychology,Taking a Nap,3,3,2
+Robert Thomas,Psychology,Binge-watching Netflix,8,1,6
+Michelle Mcdaniel,Psychology,Online Shopping,7,5,8
+Tara Dixon,Computer Science,Online Shopping,8,5,2
+Kenneth Perez,Psychology,Scrolling TikTok,10,6,1
+Austin Mclean,Engineering,Online Shopping,1,4,5
+Douglas Hudson,Art History,Taking a Nap,7,3,4
+Jason Caldwell,Engineering,Gaming,11,3,9
+Deanna Acosta,Marketing,Binge-watching Netflix,4,4,10
+Jennifer Guzman,Art History,Gaming,12,1,6
+Zachary Hill,Business,Binge-watching Netflix,7,5,4
+Tyler Ryan,Art History,Taking a Nap,10,3,2
+Tiffany Moore,Psychology,Gaming,7,2,1
+Lori Yates,Engineering,Binge-watching Netflix,10,4,10
+Erin Schmitt,Engineering,Binge-watching Netflix,2,7,2
+Richard Edwards,Computer Science,Scrolling TikTok,3,2,7
+Holly Reyes,Psychology,Scrolling TikTok,6,4,5
+Kevin Werner,Marketing,Online Shopping,7,1,8
+Brian Evans,Art History,Gaming,6,5,5
+Rachel Thomas,Psychology,Gaming,3,4,8
+Taylor Castro,Psychology,Online Shopping,5,4,8
+John Hood,Marketing,Taking a Nap,1,4,2
+Jeremy Johnson,Art History,Online Shopping,12,5,2
+April Bender,Engineering,Binge-watching Netflix,12,2,2
+Michael Garcia,Business,Scrolling TikTok,8,4,2
+Collin Khan,Art History,Taking a Nap,12,6,9
+Christopher Vincent,Marketing,Gaming,11,1,6
+Kelsey Blevins,Engineering,Online Shopping,8,3,10
+Mr. Jonathan Turner,Marketing,Gaming,6,7,2
+Phillip Lucas,Psychology,Online Shopping,3,2,2
+Olivia Nelson,Psychology,Gaming,8,7,6
+Jeffery Serrano,Business,Gaming,3,1,7
+Michael Castro,Business,Taking a Nap,4,3,2
+James Schwartz,Business,Gaming,1,2,3
+Barbara Hicks,Business,Gaming,9,4,3
+Dennis Harris,Art History,Gaming,11,1,7
+Diana Wilson,Computer Science,Binge-watching Netflix,2,3,1
+James Rodriguez,Psychology,Taking a Nap,9,5,8
+Kim Pierce,Computer Science,Online Shopping,12,2,9
+Gina Navarro,Psychology,Taking a Nap,8,6,5
+Kristen Khan,Engineering,Scrolling TikTok,8,2,4
+Michael Trujillo,Marketing,Gaming,1,2,1
+Valerie Lucas,Psychology,Scrolling TikTok,12,3,5
+Jessica Holt,Art History,Scrolling TikTok,11,6,5
+Arthur Barnes,Marketing,Gaming,2,2,2
+Monica Evans,Marketing,Scrolling TikTok,10,7,8
+Joseph Reed MD,Engineering,Gaming,10,1,7
+Jennifer Robinson,Psychology,Binge-watching Netflix,1,5,8
+Jennifer Stewart,Marketing,Online Shopping,8,7,7
+Tim Moore,Engineering,Taking a Nap,2,3,2
+Mr. Martin Nguyen PhD,Computer Science,Taking a Nap,12,5,6
+Tyler Hester,Psychology,Scrolling TikTok,4,1,6
+Daniel Irwin,Psychology,Taking a Nap,10,4,7
+Keith Jennings,Psychology,Online Shopping,10,3,1
+Stephen Johnston,Marketing,Binge-watching Netflix,1,7,2
+Peter Caldwell,Computer Science,Online Shopping,10,2,6
+Jared Navarro,Marketing,Online Shopping,10,2,4
+Robert Simpson,Marketing,Scrolling TikTok,3,4,4
+Kathy Jones,Business,Gaming,4,2,10
+Carlos Rios,Computer Science,Online Shopping,7,7,2
+Andrea Mckay,Business,Gaming,6,5,4
+Jon Black,Art History,Taking a Nap,9,3,3
+Olivia Gonzalez,Computer Science,Gaming,10,5,10
+Tina Garcia,Engineering,Taking a Nap,5,5,9
+Joseph Rosales PhD,Business,Online Shopping,7,5,6
+Rebecca Johnson,Psychology,Binge-watching Netflix,12,4,4
+Jennifer Howard,Engineering,Gaming,8,2,2
+Robert Hensley,Marketing,Taking a Nap,4,3,9
+Jacqueline Berry,Marketing,Taking a Nap,11,3,3
+Xavier Morales,Business,Binge-watching Netflix,9,7,7
+Ashley Wright,Art History,Online Shopping,6,4,7
+Wendy Short,Business,Taking a Nap,11,4,6
+Karen Wright,Engineering,Online Shopping,4,7,5
+Thomas Cain,Psychology,Gaming,1,3,2
+Lee Beltran,Marketing,Online Shopping,8,5,4
+Bradley Kennedy,Art History,Online Shopping,11,1,1
+Lindsey Wagner,Business,Binge-watching Netflix,6,4,8
+William Collins,Engineering,Online Shopping,8,4,8
+Zachary Johnson,Business,Binge-watching Netflix,3,5,1
+Lauren Walton,Computer Science,Taking a Nap,8,4,9
+Adam Brown,Business,Online Shopping,1,7,2
+Brian Wyatt,Psychology,Binge-watching Netflix,3,2,8
+Sara Jennings,Psychology,Binge-watching Netflix,11,2,5
+John Fuentes,Psychology,Taking a Nap,7,2,6
+Alexis Gross,Marketing,Taking a Nap,10,6,9
+Brittany Ochoa,Computer Science,Gaming,6,7,2
+Rachel Jones,Art History,Binge-watching Netflix,7,1,4
+Michele Green,Business,Binge-watching Netflix,6,4,2
+Andrea Griffin,Art History,Taking a Nap,12,7,2
+Jennifer Rose,Art History,Binge-watching Netflix,10,1,3
+Shannon Robinson,Computer Science,Online Shopping,8,4,6
+Steve Garcia,Marketing,Gaming,2,2,4
+Thomas Glover,Engineering,Scrolling TikTok,9,2,4
+Megan Bell,Marketing,Binge-watching Netflix,4,2,4
+Adrian George,Engineering,Gaming,11,4,4
+Robert Galvan,Computer Science,Binge-watching Netflix,4,3,3
+Jeffery Bishop,Marketing,Scrolling TikTok,9,1,5
+Rachael Norris,Art History,Taking a Nap,3,6,10
+Brandy Velazquez,Psychology,Online Shopping,9,5,1
+Paul James,Computer Science,Binge-watching Netflix,5,1,10
+Mark Parker,Computer Science,Online Shopping,7,6,1
+Ricky Davis,Psychology,Online Shopping,3,2,8
+Julia Yoder,Marketing,Binge-watching Netflix,7,5,10
+Jamie Patterson,Psychology,Scrolling TikTok,6,5,1
+Diane Casey,Computer Science,Online Shopping,6,2,8
+Jacob Hall,Engineering,Online Shopping,10,1,5
+Jennifer Taylor,Business,Scrolling TikTok,7,6,2
+Laura Gonzalez,Business,Online Shopping,3,6,2
+Kenneth Hamilton,Psychology,Online Shopping,8,1,10
+James Barnett,Art History,Online Shopping,10,1,9
+Andrew Smith,Marketing,Scrolling TikTok,5,4,2
+Deanna Ortiz,Marketing,Online Shopping,6,6,5
+Margaret Murray,Art History,Taking a Nap,5,4,3
+Rhonda Hutchinson,Psychology,Taking a Nap,12,7,7
+Rhonda Harper,Art History,Gaming,1,2,3
+Eric Leblanc,Business,Binge-watching Netflix,2,7,1
+Ryan Garrett,Psychology,Gaming,12,3,4
+Danielle Webb,Psychology,Online Shopping,1,3,1
+Ebony Brown,Engineering,Binge-watching Netflix,2,1,1
+Alexis Berry,Art History,Online Shopping,10,1,2
+James Dyer,Engineering,Scrolling TikTok,1,5,2
+Heather Pierce,Marketing,Binge-watching Netflix,12,5,5
+Audrey Franklin,Art History,Scrolling TikTok,12,7,8
+Donna Caldwell,Marketing,Binge-watching Netflix,6,4,10
+Patricia Maldonado,Business,Online Shopping,8,2,1
+Michelle Maynard,Marketing,Taking a Nap,10,4,5
+Matthew Brewer,Art History,Binge-watching Netflix,5,1,4
+Billy Wright,Computer Science,Scrolling TikTok,3,6,10
+Charles Stevens,Psychology,Scrolling TikTok,6,1,6
+Victoria Fritz,Art History,Taking a Nap,1,1,6
+Ashley Erickson,Business,Scrolling TikTok,2,7,3
+Teresa Levine,Marketing,Binge-watching Netflix,12,2,9
+Anne Cummings,Psychology,Binge-watching Netflix,2,1,7
+Sarah Farrell,Psychology,Gaming,10,2,1
+Julia Bryant,Business,Gaming,1,5,10
+Carolyn Cunningham,Marketing,Online Shopping,2,4,1
+Ariana Smith,Art History,Taking a Nap,8,6,5
+Carl Jones,Marketing,Binge-watching Netflix,7,1,2
+Larry Gilbert,Psychology,Binge-watching Netflix,12,7,6
+Jennifer Montoya,Business,Online Shopping,5,5,3
+Brenda Cline,Marketing,Gaming,4,2,7
+Brian Price,Business,Scrolling TikTok,11,6,5
+Bryan Livingston,Art History,Scrolling TikTok,1,7,8
+Jordan Garcia,Engineering,Online Shopping,2,1,7
+Anthony Norris,Art History,Gaming,9,1,1
+Troy Brown,Engineering,Gaming,10,3,5
+Blake Hines,Marketing,Online Shopping,11,3,5
+Jennifer Williams,Art History,Binge-watching Netflix,3,4,7
+Matthew Carpenter,Engineering,Binge-watching Netflix,5,5,8
+Charles Phillips,Engineering,Binge-watching Netflix,8,5,10
+Tammy Williams,Art History,Online Shopping,10,1,2
+Jesse Jackson,Computer Science,Binge-watching Netflix,10,4,2
+Kyle Sullivan,Computer Science,Scrolling TikTok,1,1,7
+Marissa Decker,Computer Science,Scrolling TikTok,9,7,2
+David Smith,Business,Taking a Nap,4,1,5
+Charles Moon,Marketing,Gaming,5,3,6
+Laura Dodson,Engineering,Gaming,3,6,1
+Deanna Nash,Business,Binge-watching Netflix,4,1,9
+Alicia Young,Computer Science,Binge-watching Netflix,9,4,8
+Kelly Pollard,Business,Taking a Nap,2,4,1
+Chase Brown,Psychology,Binge-watching Netflix,9,2,9
+Charles Romero,Psychology,Online Shopping,7,5,9
+Brooke Mills DDS,Computer Science,Scrolling TikTok,2,4,5
+Ryan White,Art History,Gaming,3,2,1
+Christopher Leonard,Computer Science,Taking a Nap,11,6,4
+Stephanie Holland,Business,Gaming,12,1,4
+Erica Gilbert,Psychology,Online Shopping,12,1,10
+John Fletcher,Engineering,Taking a Nap,11,6,9
+Jeremy Hicks,Computer Science,Binge-watching Netflix,8,5,3
+Tanya Anderson,Business,Gaming,7,1,9
+Rebecca Roberts,Engineering,Scrolling TikTok,4,1,1
+Kayla Obrien,Marketing,Binge-watching Netflix,11,3,1
+Samantha Roach,Art History,Taking a Nap,5,4,1
+Caleb Ferguson,Psychology,Gaming,9,5,4
+Daniel Leach,Art History,Binge-watching Netflix,1,7,5
+Allison Davis,Engineering,Online Shopping,6,2,4
+Erica Cowan,Psychology,Scrolling TikTok,4,5,4
+Derrick Cobb,Marketing,Gaming,5,5,3
+Jacqueline Hodges,Psychology,Taking a Nap,4,5,1
+Patrick Flores,Business,Gaming,12,7,4
+Amanda Thompson,Engineering,Taking a Nap,1,1,1
+Daniel James,Marketing,Taking a Nap,7,7,2
+Katie Nicholson,Psychology,Gaming,9,6,10
+Nicholas Rhodes,Marketing,Gaming,2,1,3
+Rose Lambert,Computer Science,Online Shopping,9,2,9
+Gabriel Cook,Business,Binge-watching Netflix,7,1,8
+Nicholas Marshall,Marketing,Scrolling TikTok,7,2,5
+Jessica Taylor,Psychology,Taking a Nap,9,5,3
+Kathleen Mcdaniel,Computer Science,Online Shopping,10,2,2
+Jack Flores,Computer Science,Taking a Nap,10,4,9
+Latoya Powell,Business,Taking a Nap,1,2,10
+Courtney Graham,Psychology,Online Shopping,2,1,4
+Regina Henderson,Computer Science,Scrolling TikTok,7,1,4
+Lisa Long,Business,Gaming,6,1,10
+Veronica Tucker,Engineering,Taking a Nap,2,4,2
+Samantha Smith,Engineering,Taking a Nap,12,1,9
+Dennis Copeland,Art History,Binge-watching Netflix,4,7,4
+David Griffith,Engineering,Binge-watching Netflix,2,5,4
+Cynthia Hudson,Psychology,Online Shopping,8,2,5
+Jessica Kennedy,Business,Taking a Nap,5,7,5
+James Clay,Marketing,Taking a Nap,12,5,3
+Gina Coleman,Computer Science,Scrolling TikTok,7,4,2
+Duane Clay MD,Art History,Scrolling TikTok,2,5,10
+Holly Hubbard,Marketing,Online Shopping,8,5,8
+Jennifer Green,Psychology,Scrolling TikTok,7,7,1
+Donald Goodman,Psychology,Scrolling TikTok,7,2,7
+Nathan Stevens,Engineering,Gaming,5,2,4
+Gabriel Davis,Marketing,Gaming,3,4,5
+Teresa Allen,Psychology,Scrolling TikTok,8,7,2
+Jessica Molina,Business,Taking a Nap,4,5,8
+Julie Johnson,Psychology,Scrolling TikTok,4,7,5
+Beth Lane,Psychology,Taking a Nap,1,3,1
+Marcus Rodriguez,Psychology,Online Shopping,7,6,7
+Lisa Mathews,Engineering,Binge-watching Netflix,8,7,4
+Regina Rivera,Art History,Online Shopping,7,1,9
+Peggy Lee,Computer Science,Online Shopping,11,4,9
+Katie Perez,Psychology,Gaming,12,7,5
+Kyle Ellis,Art History,Taking a Nap,11,4,8
+Amanda Carr,Psychology,Binge-watching Netflix,9,3,2
+Patricia Hines,Psychology,Binge-watching Netflix,2,1,6
+Makayla Robinson,Marketing,Gaming,2,4,1
+Margaret Johnson,Psychology,Binge-watching Netflix,10,1,4
+Penny Gonzales,Marketing,Gaming,7,2,6
+Courtney Wood,Business,Binge-watching Netflix,4,3,1
+Kevin Hamilton,Computer Science,Binge-watching Netflix,5,5,6
+Tracy Morgan,Art History,Taking a Nap,4,7,4
+Seth Smith,Computer Science,Taking a Nap,3,2,9
+Paul Patrick,Engineering,Online Shopping,2,3,7
+Lisa Stewart,Marketing,Binge-watching Netflix,4,1,8
+Stacey Lee,Marketing,Online Shopping,3,4,1
+Zachary Espinoza,Marketing,Gaming,9,1,7
+Jessica Johnson,Art History,Scrolling TikTok,4,7,8
+Tyler Sexton,Psychology,Taking a Nap,11,5,2
+Jennifer Hall,Marketing,Binge-watching Netflix,12,4,9
+Andrew Chambers,Art History,Gaming,5,1,2
+Ana Diaz,Marketing,Online Shopping,8,7,10
+Amy Henderson,Psychology,Binge-watching Netflix,6,4,4
+Mikayla Mckee,Business,Scrolling TikTok,8,1,8
+Christina Bowen,Engineering,Binge-watching Netflix,8,6,9
+Ann Mendoza,Marketing,Taking a Nap,5,5,3
+Dana Harris,Marketing,Online Shopping,12,7,9
+Travis Johnson,Marketing,Taking a Nap,7,6,8
+Carolyn Stevens,Art History,Online Shopping,1,6,8
+Jennifer Morales,Art History,Taking a Nap,9,3,5
+Donna Newton,Engineering,Online Shopping,2,7,5
+Christopher Braun,Marketing,Scrolling TikTok,4,4,1
+Robyn Thompson,Engineering,Online Shopping,8,5,4
+Cathy Gonzalez,Business,Online Shopping,5,5,2
+Andres Evans,Psychology,Gaming,10,5,3
+Frank Foley,Business,Binge-watching Netflix,5,3,8
+Courtney Crane,Computer Science,Scrolling TikTok,4,6,5
+Angela Adams,Psychology,Taking a Nap,1,4,6
+Ronald Maxwell,Art History,Scrolling TikTok,12,7,4
+Nicole Reid,Business,Binge-watching Netflix,3,3,10
+Jaime Hardin,Art History,Binge-watching Netflix,3,2,2
+Ryan Vasquez MD,Business,Taking a Nap,9,1,7
+Marissa Smith,Business,Scrolling TikTok,5,3,4
+Traci Smith,Engineering,Online Shopping,9,7,9
+Brandon Jackson,Computer Science,Binge-watching Netflix,9,3,8
+Raymond Graham,Business,Taking a Nap,6,3,9
+Raymond Sims,Art History,Gaming,5,2,6
+Alejandro Evans,Engineering,Taking a Nap,6,4,3
+Raymond Armstrong,Business,Online Shopping,9,2,7
+Stephanie Brooks,Art History,Online Shopping,11,3,9
+Stephen Estrada,Art History,Gaming,5,6,9
+Sarah Clayton,Marketing,Gaming,7,1,7
+Ryan Payne,Business,Taking a Nap,7,3,2
+Traci Roberson,Marketing,Gaming,1,3,8
+Troy Jimenez,Art History,Scrolling TikTok,8,3,5
+Mark Ross II,Art History,Taking a Nap,2,5,6
+Matthew Walker,Engineering,Binge-watching Netflix,11,5,3
+William Johnson,Engineering,Taking a Nap,4,7,3
+Christopher Hernandez,Marketing,Online Shopping,5,2,1
+Virginia Porter,Computer Science,Gaming,3,7,8
+Charles Johnson,Art History,Online Shopping,8,5,3
+Cheryl Moreno,Psychology,Binge-watching Netflix,3,3,7
+Brandy Palmer,Engineering,Gaming,10,1,3
+Terry Morris,Art History,Binge-watching Netflix,8,3,5
+Bryan Cox,Marketing,Scrolling TikTok,10,2,4
+Roberta Lee,Engineering,Online Shopping,10,3,5
+Angela Medina,Engineering,Gaming,9,5,10
+Carly Osborne,Psychology,Binge-watching Netflix,11,3,10
+Donna Phillips,Computer Science,Scrolling TikTok,7,2,4
+Russell Vance,Art History,Binge-watching Netflix,6,7,4
+Olivia Fisher,Computer Science,Binge-watching Netflix,10,4,3
+Mrs. Shannon Henderson,Engineering,Gaming,8,4,6
+Angela Cline,Business,Taking a Nap,6,3,6
+Joshua Martin,Marketing,Taking a Nap,6,3,10
+Ruben Brown,Psychology,Online Shopping,3,6,8
+Diane Holland,Art History,Scrolling TikTok,1,5,9
+Maria Wilson,Psychology,Online Shopping,9,2,7
+Renee Ramirez,Computer Science,Scrolling TikTok,11,1,4
+Catherine Hale,Marketing,Taking a Nap,9,2,8
+Melissa Young,Business,Scrolling TikTok,5,5,1
+Dr. Tammy Wall,Business,Binge-watching Netflix,2,4,7
+Kevin Reed,Psychology,Binge-watching Netflix,11,4,9
+Alison Hoover,Engineering,Online Shopping,4,7,1
+Lisa White,Business,Gaming,11,6,5
+Lori Hall,Art History,Taking a Nap,6,7,10
+Earl Perez,Psychology,Gaming,9,1,6
+Jonathan Reed,Marketing,Online Shopping,6,2,9
+Kelly Morales,Engineering,Scrolling TikTok,1,1,1
+Calvin Gates,Marketing,Gaming,4,1,6
+Carlos Harris,Computer Science,Binge-watching Netflix,7,3,1
+Timothy Bradley,Business,Gaming,8,7,9
+Calvin Anderson,Marketing,Binge-watching Netflix,11,7,3
+Marcus Miller,Engineering,Gaming,5,3,9
+Joshua Parker,Art History,Online Shopping,4,3,7
+Juan Morales,Art History,Binge-watching Netflix,12,1,7
+Jason Choi,Business,Scrolling TikTok,12,7,2
+Veronica Jimenez,Marketing,Taking a Nap,9,2,7
+Debra Chapman,Business,Scrolling TikTok,11,5,8
+Kyle Friedman,Engineering,Online Shopping,1,7,4
+Angela Yu,Art History,Binge-watching Netflix,2,1,7
+Felicia Anderson,Art History,Binge-watching Netflix,8,5,4
+Eric Castillo,Business,Online Shopping,2,5,3
+William Reyes,Computer Science,Scrolling TikTok,9,5,5
+Richard Ortega,Engineering,Binge-watching Netflix,1,3,4
+Austin Crawford,Computer Science,Binge-watching Netflix,10,7,2
+Mackenzie Wise,Marketing,Gaming,10,7,1
+Richard Thomas,Computer Science,Gaming,1,7,4
+William Kennedy,Engineering,Scrolling TikTok,8,2,10
+Brooke Santos,Art History,Scrolling TikTok,6,5,8
+Samantha Taylor,Computer Science,Binge-watching Netflix,6,5,10
+Christopher Carrillo,Business,Taking a Nap,10,6,4
+Jennifer Shepard,Psychology,Scrolling TikTok,2,7,7
+Michelle Jackson,Marketing,Online Shopping,6,1,3
+Justin Morris,Engineering,Binge-watching Netflix,11,3,3
+Daisy Giles,Marketing,Gaming,6,4,10
+John Riley,Psychology,Scrolling TikTok,8,7,9
+Gary Goodman,Business,Online Shopping,8,6,9
+Kathryn Edwards,Psychology,Online Shopping,12,7,6
+Kathleen Richard,Business,Binge-watching Netflix,8,1,7
+April Montgomery,Psychology,Taking a Nap,11,1,6
+Christopher Smith,Computer Science,Scrolling TikTok,2,1,9
+Thomas Bowen,Marketing,Gaming,8,6,9
+Nicole Kent,Art History,Taking a Nap,1,5,4
+Katrina Lee,Psychology,Gaming,9,6,5
+Jerry Huff,Art History,Taking a Nap,11,4,1
+John Todd,Marketing,Scrolling TikTok,2,6,3
+Lisa Kelly,Art History,Taking a Nap,8,7,3
+Kristin Beasley,Business,Gaming,8,5,2
+James Holder,Marketing,Online Shopping,5,7,5
+Tiffany Padilla,Marketing,Taking a Nap,3,4,9
+Maria Bell,Psychology,Taking a Nap,2,3,7
+Amy Thompson,Psychology,Gaming,12,1,5
+Christine Harris,Engineering,Binge-watching Netflix,6,2,8
+Casey Martin,Business,Binge-watching Netflix,3,6,8
+Seth Torres,Business,Taking a Nap,9,7,4
+Renee Jordan,Computer Science,Scrolling TikTok,4,6,5
+Daniel Tucker,Marketing,Binge-watching Netflix,11,3,5
+Tyler Knight,Computer Science,Gaming,3,6,9
+Megan Dodson,Engineering,Scrolling TikTok,10,1,1
+Anthony George,Psychology,Binge-watching Netflix,6,4,3
+Melissa Mercado,Psychology,Online Shopping,9,4,9
+Dennis Moore,Art History,Gaming,2,6,3
+Miss Christina Hamilton,Marketing,Online Shopping,6,2,3
+Eric Hodge,Art History,Online Shopping,2,7,7
+Michael Pierce DVM,Business,Gaming,3,3,10
+Chris Salazar,Computer Science,Scrolling TikTok,1,6,4
+Kristen Owens,Engineering,Online Shopping,2,6,5
+Rebecca Alvarez,Engineering,Scrolling TikTok,3,5,5
+Rebecca King,Art History,Taking a Nap,10,4,1
+Philip Wright,Computer Science,Gaming,2,1,7
+Stephen Hall,Engineering,Binge-watching Netflix,4,6,5
+Juan Thompson,Art History,Scrolling TikTok,7,1,1
+Sheila Potter,Psychology,Binge-watching Netflix,12,7,9
+Tina Ewing,Engineering,Binge-watching Netflix,1,5,6
+Jennifer Delgado,Psychology,Scrolling TikTok,7,7,10
+Edward Cordova,Business,Gaming,8,3,4
+Katie Holt,Marketing,Binge-watching Netflix,1,6,2
+Richard Dominguez,Art History,Scrolling TikTok,8,6,10
+Eddie Walter,Business,Gaming,2,5,9
+Tammy Yu,Marketing,Taking a Nap,9,1,7
+David Ayers,Business,Taking a Nap,11,1,5
+Amber Rose,Computer Science,Taking a Nap,10,2,2
+Thomas Nelson,Marketing,Online Shopping,12,3,2
+Amanda Sutton,Business,Online Shopping,4,7,7
+Mike Moore,Psychology,Gaming,12,1,5
+Melissa Shelton,Marketing,Gaming,12,3,2
+Kathleen Carr,Marketing,Binge-watching Netflix,8,2,1
+Francisco Romero,Art History,Scrolling TikTok,3,3,9
+Robert Perez,Marketing,Gaming,1,4,2
+Wanda Kane,Art History,Binge-watching Netflix,5,2,5
+Jessica Jones,Computer Science,Binge-watching Netflix,6,4,5
+Joel Allen,Business,Online Shopping,8,7,6
+Victoria Boyd,Art History,Online Shopping,1,4,9
+Sara Warren,Art History,Binge-watching Netflix,8,4,6
+Laura Baker,Business,Scrolling TikTok,10,1,9
+Danielle Davis,Art History,Scrolling TikTok,9,6,9
+Charles Hill,Art History,Online Shopping,1,4,10
+Chris Davidson,Computer Science,Binge-watching Netflix,11,4,2
+Donna Johnson,Psychology,Scrolling TikTok,10,6,6
+Michael Daniel,Business,Gaming,6,1,5
+Lisa Watkins,Business,Online Shopping,5,3,2
+Scott Jones,Engineering,Gaming,11,7,8
+Elizabeth Anderson,Art History,Online Shopping,2,3,2
+Brandon Williams,Psychology,Binge-watching Netflix,2,4,6
+Carrie Kelly,Psychology,Binge-watching Netflix,8,2,5
+Amanda Hogan,Psychology,Taking a Nap,4,6,3
+Tina Yang,Computer Science,Gaming,2,4,5
+Sheri Holt,Engineering,Gaming,11,5,7
+David Hall,Psychology,Scrolling TikTok,1,6,4
+Bonnie Lara,Engineering,Binge-watching Netflix,9,7,9
+Amanda Lozano,Computer Science,Taking a Nap,2,1,5
+Jill Peters,Engineering,Gaming,12,3,8
+Kevin Nguyen,Business,Online Shopping,9,1,3
+Trevor Jackson,Computer Science,Scrolling TikTok,6,4,2
+Mary Gould,Computer Science,Online Shopping,3,7,9
+Evelyn Williams,Engineering,Binge-watching Netflix,12,1,5
+Aaron Haas,Marketing,Taking a Nap,10,4,4
+Heather Larsen,Business,Online Shopping,12,5,6
+Keith Cole,Art History,Binge-watching Netflix,6,3,5
+Steven Norton,Psychology,Taking a Nap,9,3,1
+Kelly Gonzalez,Computer Science,Gaming,8,3,3
+Angela Dorsey,Business,Online Shopping,1,4,2
+Wesley Juarez,Computer Science,Binge-watching Netflix,5,1,5
+Suzanne Alvarez PhD,Psychology,Gaming,1,5,10
+Ashley Tyler,Psychology,Binge-watching Netflix,1,1,8
+Michael Rodriguez,Business,Taking a Nap,2,3,7
+Carol Allen,Marketing,Scrolling TikTok,2,6,5
+George Branch,Marketing,Binge-watching Netflix,2,3,3
+Jill Nolan,Engineering,Online Shopping,5,4,1
+Tamara Myers,Business,Scrolling TikTok,5,1,10
+Crystal Smith,Marketing,Binge-watching Netflix,2,4,3
+Cynthia Gilbert,Computer Science,Scrolling TikTok,10,2,3
+Adam Patterson,Psychology,Scrolling TikTok,6,6,8
+Mark Brown,Psychology,Binge-watching Netflix,4,1,9
+Jason Lee,Business,Gaming,3,4,7
+Daniel Thomas,Psychology,Online Shopping,10,3,3
+Katelyn Day,Business,Gaming,7,4,1
+Joseph Walters,Psychology,Scrolling TikTok,10,4,6
+Austin Anderson,Computer Science,Scrolling TikTok,9,2,4
+Virginia Horton,Computer Science,Binge-watching Netflix,9,2,6
+Andrea Cox,Business,Online Shopping,12,5,7
+Travis Hubbard DDS,Business,Gaming,12,4,8
+Adrienne Nielsen,Computer Science,Gaming,4,3,4
+Mary Rangel,Psychology,Scrolling TikTok,7,4,5
+Kristine Walsh,Computer Science,Scrolling TikTok,10,4,9
+Daniel Williams,Business,Gaming,1,5,9
+Carrie Long,Engineering,Gaming,5,3,6
+Dustin Gross,Marketing,Taking a Nap,3,4,4
+George Miller,Business,Taking a Nap,1,3,10
+Deborah Scott,Business,Binge-watching Netflix,6,4,5
+Mrs. Cassandra Welch,Marketing,Gaming,2,5,8
+Kevin Booth,Business,Scrolling TikTok,9,1,9
+Christine Pierce,Art History,Scrolling TikTok,2,4,3
+Trevor Thomas,Marketing,Online Shopping,1,7,10
+Christopher Parker,Computer Science,Scrolling TikTok,4,6,4
+Manuel King IV,Engineering,Binge-watching Netflix,5,5,10
+Glenda Cooper,Art History,Online Shopping,4,6,9
+Tyler Carson,Psychology,Scrolling TikTok,10,7,4
+Anna Sanchez,Marketing,Online Shopping,4,4,4
+Shane Werner,Computer Science,Online Shopping,11,2,1
+David Eaton,Engineering,Binge-watching Netflix,11,2,1
+Mark Flowers,Psychology,Online Shopping,11,5,4
+Tina Rogers,Marketing,Taking a Nap,4,1,6
+Glenda Martin,Engineering,Gaming,1,3,6
+Tristan Bowers,Art History,Online Shopping,11,1,9
+Gabriel Castro,Psychology,Online Shopping,4,6,8
+Thomas Jones,Art History,Scrolling TikTok,12,1,5
+Kristen Smith,Marketing,Online Shopping,6,3,7
+John Buckley,Engineering,Taking a Nap,3,7,8
+Wyatt Copeland,Psychology,Binge-watching Netflix,4,4,7
+Joe Baxter,Psychology,Scrolling TikTok,7,6,6
+Nicole Thompson,Art History,Taking a Nap,2,4,6
+Emily Pratt,Business,Taking a Nap,8,5,3
+Christina Miller,Engineering,Binge-watching Netflix,11,4,7
+Christine Preston,Engineering,Online Shopping,3,7,9
+Brenda Sullivan,Computer Science,Gaming,5,1,3
+Amanda Mcgee,Computer Science,Online Shopping,5,3,7
+Jordan Gray,Art History,Gaming,12,7,3
+Jennifer Dixon,Marketing,Scrolling TikTok,9,1,2
+Douglas Strong,Psychology,Binge-watching Netflix,7,4,6
+Jenny Anderson,Art History,Scrolling TikTok,12,1,6
+Amanda Guerrero,Engineering,Gaming,3,5,1
+Donald Brown,Engineering,Gaming,1,2,4
+Daniel Smith,Marketing,Taking a Nap,5,3,3
+Bradley Wilson,Computer Science,Online Shopping,2,4,6
+Jeremy Hall,Computer Science,Taking a Nap,6,6,9
+William Parker,Business,Taking a Nap,9,4,6
+Michael Hall,Computer Science,Gaming,10,6,2
+Jennifer Tucker,Computer Science,Scrolling TikTok,10,2,2
+Brett Lewis,Marketing,Taking a Nap,6,7,4
+Rebecca Zimmerman,Business,Scrolling TikTok,3,2,10
+Rachel Chaney,Marketing,Binge-watching Netflix,6,5,7
+Amy Myers,Psychology,Scrolling TikTok,7,6,4
+Danielle Stephenson,Marketing,Gaming,2,5,4
+Robert Patterson,Psychology,Online Shopping,10,4,2
+Chelsea Carrillo,Engineering,Online Shopping,3,1,5
+Danny Walter,Art History,Gaming,1,5,2
+Anthony Hawkins,Engineering,Scrolling TikTok,6,6,1
+Ronald Scott,Engineering,Gaming,6,6,6
+Jaclyn Graham,Engineering,Scrolling TikTok,5,5,10
+Michael Owen,Marketing,Gaming,2,4,7
+Victor Rowe,Computer Science,Online Shopping,7,1,7
+Jacob Carney,Art History,Gaming,1,7,2
+Michelle Lewis,Marketing,Gaming,10,6,2
+Jason Jones,Computer Science,Taking a Nap,3,4,4
+Julie Morales,Art History,Online Shopping,12,5,10
+John Brock,Art History,Binge-watching Netflix,6,7,6
+Stacey Reese,Computer Science,Taking a Nap,8,2,7
+Richard Williams,Psychology,Binge-watching Netflix,1,1,2
+Linda Dougherty,Business,Scrolling TikTok,6,1,3
+Shelby Gregory,Engineering,Binge-watching Netflix,10,7,2
+Eric Sampson,Computer Science,Scrolling TikTok,8,6,8
+Christopher Grant,Psychology,Online Shopping,4,6,9
+Kayla Cole,Psychology,Online Shopping,12,3,6
+Jason Cox,Business,Binge-watching Netflix,1,6,4
+Rachel Perez,Engineering,Gaming,6,1,10
+Carmen Nelson,Art History,Gaming,10,6,8
+Shannon Eaton,Engineering,Binge-watching Netflix,4,5,2
+Sean Mccoy,Art History,Scrolling TikTok,8,2,2
+Charles Mccall,Business,Gaming,9,7,6
+Michael Russo,Psychology,Online Shopping,5,4,8
+Cynthia Watts,Psychology,Binge-watching Netflix,6,2,6
+Donna Duffy,Psychology,Scrolling TikTok,4,3,2
+Katherine Mitchell,Computer Science,Binge-watching Netflix,2,5,10
+Christopher Watson DVM,Art History,Online Shopping,3,3,2
+David Gill,Computer Science,Gaming,7,1,7
+Tonya Hernandez,Business,Taking a Nap,4,7,6
+Karen Shepherd,Business,Online Shopping,5,1,6
+Lisa Cameron,Psychology,Gaming,3,4,2
+Christopher Perry,Psychology,Binge-watching Netflix,8,3,10
+Teresa Smith,Computer Science,Gaming,5,6,3
+Dr. Timothy Lucas,Computer Science,Online Shopping,9,7,9
+David Morris,Business,Scrolling TikTok,5,7,6
+Travis Nelson,Engineering,Online Shopping,9,2,1
+Andrea Clay,Engineering,Gaming,6,3,3
+Luke Torres,Engineering,Binge-watching Netflix,4,5,7
+Laura Weeks,Computer Science,Online Shopping,2,2,9
+Joshua Stevenson,Computer Science,Online Shopping,11,7,7
+Katie Wright,Computer Science,Binge-watching Netflix,7,6,2
+Lisa Mueller,Business,Scrolling TikTok,7,3,5
+Olivia Jones,Engineering,Gaming,11,3,6
+Abigail Jones,Engineering,Binge-watching Netflix,6,6,9
+Marc Moreno,Business,Gaming,7,5,4
+Jeffrey Davis,Business,Online Shopping,12,3,5
+Candace Williams,Marketing,Online Shopping,12,3,7
+Cameron Cobb,Engineering,Binge-watching Netflix,1,1,9
+Michelle Henderson,Computer Science,Gaming,7,5,5
+Andrew Morris,Engineering,Gaming,7,2,5
+Stephen Grant,Business,Scrolling TikTok,4,1,10
+Nicholas Rice,Business,Online Shopping,9,3,8
+Helen Jacobs,Art History,Binge-watching Netflix,1,6,9
+Sara Zimmerman,Engineering,Online Shopping,3,1,4
+Ellen Brooks,Engineering,Taking a Nap,6,5,9
+Rebecca Boyd,Computer Science,Online Shopping,8,2,3
+Sara Hayden,Art History,Binge-watching Netflix,9,2,6
+Cindy Watkins,Computer Science,Scrolling TikTok,11,7,10
+Brenda Glass,Psychology,Gaming,4,6,9
+Kathleen Owens,Business,Online Shopping,2,4,2
+Norma Young,Engineering,Gaming,7,2,5
+Theresa Carr,Business,Taking a Nap,9,7,1
+Carolyn Yates,Computer Science,Scrolling TikTok,2,1,2
+Douglas Sanchez Jr.,Computer Science,Scrolling TikTok,2,7,8
+Rhonda Horne,Computer Science,Scrolling TikTok,9,3,8
+Alexis Arnold,Marketing,Scrolling TikTok,7,4,3
+Lauren Kennedy,Art History,Online Shopping,7,6,8
+Ashley Scott,Business,Gaming,9,2,2
+Leslie Sanders,Engineering,Gaming,6,4,5
+Meghan Nelson,Engineering,Gaming,4,3,4
+Andrew Thomas,Marketing,Taking a Nap,9,4,6
+Ronald Holmes,Engineering,Scrolling TikTok,7,2,10
+Martin Carpenter,Marketing,Online Shopping,6,6,6
+Christina Davis,Computer Science,Binge-watching Netflix,1,6,8
+Joanne Crawford,Business,Taking a Nap,3,4,8
+Cynthia Schroeder,Art History,Scrolling TikTok,8,2,6
+John Massey,Computer Science,Online Shopping,12,5,3
+Kyle Wells,Computer Science,Scrolling TikTok,3,2,3
+Brian Garcia,Psychology,Online Shopping,2,7,9
+Adam Shepherd,Computer Science,Scrolling TikTok,7,5,1
+Stephanie Johnston,Marketing,Taking a Nap,2,2,1
+Elizabeth Fox,Marketing,Gaming,3,5,1
+Mrs. Charlene Chambers,Computer Science,Binge-watching Netflix,6,4,10
+Darlene Martin,Business,Scrolling TikTok,9,7,10
+Casey Pineda,Psychology,Online Shopping,1,7,5
+Robert Curtis,Engineering,Scrolling TikTok,10,5,3
+Jessica Nelson,Psychology,Scrolling TikTok,9,6,3
+Julie Petty,Engineering,Online Shopping,6,4,6
+Glenda Terry,Psychology,Gaming,2,6,4
+Mary Allen,Business,Taking a Nap,1,2,1
+Frank Brewer,Engineering,Online Shopping,11,6,8
+David Vincent,Marketing,Scrolling TikTok,9,1,3
+Sarah Ayers,Psychology,Taking a Nap,1,7,2
+Steven Hartman,Art History,Gaming,8,5,3
+Kristina Petty,Art History,Online Shopping,4,7,1
+Kimberly James,Business,Binge-watching Netflix,4,3,4
+James Gardner,Computer Science,Scrolling TikTok,10,5,3
+Kari Frost,Computer Science,Gaming,9,7,5
+Nathan Gutierrez,Art History,Scrolling TikTok,7,4,10
+Joel Morrison,Business,Binge-watching Netflix,12,2,3
+Madison Stevens,Computer Science,Binge-watching Netflix,1,6,5
+April Mcmahon,Psychology,Online Shopping,7,4,9
+Mr. Andrew Carter,Art History,Gaming,7,1,6
+Scott Moss,Marketing,Gaming,10,6,4
+Barbara Graham,Marketing,Binge-watching Netflix,6,5,10
+Christopher Jones,Engineering,Gaming,4,3,1
+Sierra Ingram,Engineering,Binge-watching Netflix,9,6,7
+Katherine Gillespie,Marketing,Binge-watching Netflix,5,1,6
+Brittany Rodriguez,Business,Binge-watching Netflix,12,1,5
+Michele Mendoza,Engineering,Online Shopping,3,4,9
+John Grimes,Psychology,Gaming,10,2,1
+Dennis Wise,Engineering,Taking a Nap,10,4,7
+Natalie Lee,Psychology,Binge-watching Netflix,5,2,6
+Tiffany Jenkins,Engineering,Binge-watching Netflix,9,7,2
+Brian Graves MD,Art History,Binge-watching Netflix,1,2,5
+Virginia Byrd,Business,Binge-watching Netflix,1,7,4
+Robert Payne,Art History,Binge-watching Netflix,9,4,4
+Donna Moreno,Marketing,Gaming,7,1,7
+Steven Tran,Engineering,Binge-watching Netflix,8,7,8
+Mark Thomas,Psychology,Binge-watching Netflix,7,7,5
+Matthew Lowe,Psychology,Taking a Nap,2,6,4
+Jeremy Fletcher,Computer Science,Online Shopping,8,2,8
+Karen Brennan,Computer Science,Scrolling TikTok,6,4,7
+Timothy Dickerson,Marketing,Scrolling TikTok,7,2,10
+Angela King,Engineering,Online Shopping,10,1,2
+Jared Pineda,Business,Binge-watching Netflix,7,2,9
+Mary Peck,Marketing,Scrolling TikTok,10,3,5
+Calvin Browning,Psychology,Taking a Nap,2,5,3
+Debra Bautista,Marketing,Gaming,11,4,8
+John Miller,Business,Binge-watching Netflix,2,6,8
+Willie Vasquez,Marketing,Gaming,4,5,9
+Allen Murray,Psychology,Taking a Nap,5,1,5
+Karen Ayers,Psychology,Gaming,6,5,10
+Lisa Blevins,Psychology,Gaming,9,6,9
+Connie Hall,Marketing,Scrolling TikTok,11,4,5
+Toni Ramirez,Psychology,Scrolling TikTok,3,1,3
+Bradley Baker,Marketing,Gaming,1,7,7
+Jeffrey Palmer,Psychology,Scrolling TikTok,7,6,4
+Trevor Nelson,Art History,Scrolling TikTok,8,5,2
+Lisa Lynch,Marketing,Online Shopping,9,3,6
+Christopher Martinez,Engineering,Taking a Nap,6,2,6
+John Lee,Engineering,Scrolling TikTok,8,7,5
+Alan Miller,Psychology,Taking a Nap,3,7,9
+Carl Anderson,Psychology,Scrolling TikTok,11,6,2
+Joshua Byrd,Art History,Scrolling TikTok,3,3,1
+Kelsey Huff,Art History,Scrolling TikTok,4,3,1
+Robert Clark,Art History,Gaming,3,7,6
+Connie Gonzales,Business,Online Shopping,12,7,2
+Eric Medina,Psychology,Taking a Nap,8,5,8
+Andrew Turner,Engineering,Taking a Nap,7,2,2
+Tina Freeman,Business,Scrolling TikTok,7,1,3
+Cindy Thomas,Marketing,Binge-watching Netflix,5,1,3
+Whitney Harris,Business,Taking a Nap,1,5,4
+Kirsten Sanford,Art History,Scrolling TikTok,9,1,7
+Matthew Schmidt,Engineering,Taking a Nap,2,7,9
+Jorge Houston,Business,Scrolling TikTok,3,3,9
+Jonathan Lee,Marketing,Gaming,7,1,10
+Ms. Victoria Martin DDS,Computer Science,Gaming,6,7,3
+Dr. Eric Mejia Jr.,Art History,Taking a Nap,11,7,8
+Scott Ayala,Psychology,Gaming,11,5,6
+Susan Wise,Art History,Online Shopping,3,3,8
+Yvette Smith,Art History,Online Shopping,11,5,4
+Ashley Arellano,Marketing,Taking a Nap,1,5,9
+Patricia Green,Engineering,Online Shopping,5,2,7
+Taylor Brown,Engineering,Scrolling TikTok,8,7,5
+Sue Miranda,Marketing,Scrolling TikTok,4,2,1
+Lauren Vega,Marketing,Binge-watching Netflix,11,4,6
+Raymond Hill,Engineering,Taking a Nap,11,2,5
+Emily Fox,Marketing,Gaming,5,3,3
+Brian Carter,Computer Science,Gaming,2,3,7
+Mr. Douglas Guerrero,Engineering,Gaming,10,4,5
+Eric Brown,Art History,Gaming,12,5,6
+Eduardo Schneider,Engineering,Binge-watching Netflix,12,2,5
+Sandra Mccarthy,Engineering,Scrolling TikTok,3,3,5
+Devin Lang,Engineering,Online Shopping,4,1,10
+Robert Gay,Marketing,Taking a Nap,7,2,9
+Kevin Santos,Computer Science,Binge-watching Netflix,6,6,6
+Michelle Richards,Engineering,Taking a Nap,5,7,4
+David Leonard,Marketing,Binge-watching Netflix,10,3,7
+Jose Whitehead,Engineering,Online Shopping,5,6,7
+Jake Galloway,Computer Science,Gaming,6,1,6
+John Miles,Business,Scrolling TikTok,5,1,3
+Jonathan Smith,Art History,Gaming,7,3,6
+James Thompson,Art History,Taking a Nap,1,7,1
+Martha Jacobs,Computer Science,Gaming,7,7,8
+Terry Booker,Marketing,Scrolling TikTok,5,3,7
+Julie Henson,Business,Online Shopping,8,5,8
+Shirley Dunn,Business,Online Shopping,7,5,8
+Dana Nguyen,Psychology,Gaming,5,2,5
+Kimberly Gonzalez,Business,Binge-watching Netflix,8,1,3
+Julie Campbell,Engineering,Binge-watching Netflix,1,1,8
+Thomas Murray,Art History,Taking a Nap,10,2,3
+Nancy Mcdaniel,Computer Science,Taking a Nap,3,1,5
+Brianna Gonzalez,Marketing,Online Shopping,11,2,8
+Sara Moran,Marketing,Gaming,7,4,8
+Kurt Jones,Business,Gaming,7,5,2
+Gina Phillips,Art History,Gaming,8,4,5
+Larry Castro,Marketing,Scrolling TikTok,3,1,4
+Kimberly Jones,Marketing,Scrolling TikTok,1,1,4
+David Williams,Business,Gaming,9,5,10
+Debra Ramirez,Marketing,Binge-watching Netflix,4,4,8
+Elizabeth Jones,Computer Science,Online Shopping,9,5,5
+Russell Montgomery,Computer Science,Online Shopping,2,5,1
+Jill Gray,Business,Binge-watching Netflix,6,5,10
+Jonathan Tate,Engineering,Gaming,8,4,10
+Heather Wilson,Engineering,Binge-watching Netflix,12,7,6
+Jennifer Ward,Marketing,Binge-watching Netflix,6,5,1
+Kenneth Brock,Computer Science,Gaming,8,6,6
+Shawn Duncan,Art History,Scrolling TikTok,3,6,8
+Linda Anderson,Art History,Taking a Nap,2,3,7
+Jill Cantrell,Marketing,Taking a Nap,4,1,7
+Joseph Mejia,Computer Science,Online Shopping,2,6,10
+Carla Dillon,Art History,Online Shopping,9,6,10
+Melissa Allen,Marketing,Online Shopping,4,3,4
+Kylie Bryant,Engineering,Online Shopping,8,2,8
+Jody Chapman,Psychology,Scrolling TikTok,2,1,6
