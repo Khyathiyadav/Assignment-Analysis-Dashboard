@@ -79,10 +79,10 @@ The Power BI dashboard includes:
 ## Dashboard Preview
 
 ### Procrastination Analysis Dashboard
-![Procrastination Analysis Dashboard](dashboard_1.png)
+![Procrastination Analysis Dashboard](dashboard1.png)
 
 ### Assignment & Major Analysis
-![Assignment Analysis Dashboard](dashboard_2.png)
+![Assignment Analysis Dashboard](dashboard2.png)
 
 
 
